@@ -7,6 +7,8 @@ input = input.split(' ').map((item) => +item);
 solution();
 function solution() {
     // Write your code
-    console.log("강한친구 대한육군");
-    console.log("강한친구 대한육군");
+   console.log(`\\    /\\
+ )  ( ')
+(  /  )
+ \\(__)|`)
 }
